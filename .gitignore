@@ -1,0 +1,7 @@
+data/gtfs_stm/stop_times.txt
+data/gtfs_stm/shapes.txt
+data/gtfs_stm/trips.txt
+data/statcan_census_quebec.zip
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
